@@ -18,9 +18,7 @@ Inspired by classic spider lore and a bit of Spiderman magic, the game makes sur
 Enjoy swinging with Webster!
 https://editor.p5js.org/mb9457/sketches/tAD9-naTT
 
----
 
-## Sketch!
 
 ---
 
